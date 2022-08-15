@@ -1,0 +1,23 @@
+var palavra = "palavra"
+let array = palavra.split("")
+console.log(array[1])
+
+var teste = array.length
+console.log(teste)
+
+for(i = 0; i< array.length - 1; i--){
+    console.log(i)
+
+}
+
+
+//console.log(array)
+var qtdeLetras = array.length
+//console.log(qtdeLetras)
+var teste = array.lastIndexOf()
+
+
+
+for (i in palavra){
+
+}
